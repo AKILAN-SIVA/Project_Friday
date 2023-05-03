@@ -4,7 +4,7 @@ Friday - a voice assistant
 
 Run the app
 ```
-cd pythonprojects
+cd pythonProject
 ```
 
 ```
