@@ -22,15 +22,6 @@ def talk(text):
     engine.say(text)
     engine.runAndWait()
 
-# def mail(to, content):
-#     server = smtplib.SMTP("smtp.gmail.com",587)
-#     server.ehlo()
-#     server.starttls()
-#
-#     server.login('emailid','passsword')
-#     mail(to,content)
-#     server.close()
-
 talk('hi.......i am friday..... what can i do for u')
 def take_command():
     try:
