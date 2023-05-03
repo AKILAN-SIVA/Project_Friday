@@ -1,6 +1,12 @@
 # Project_Friday
- 
-Run app
+
+Friday - a voice assistant
+
+Run the app
+```
+cd pythonprojects
+```
+
 ```
 python main.py
 ```
