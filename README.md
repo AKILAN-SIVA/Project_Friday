@@ -2,11 +2,11 @@
 
 Friday - a voice assistant
 
-Run the app
+Enter into the directory
 ```
 cd pythonProject
 ```
-
+Run The app
 ```
 python main.py
 ```
